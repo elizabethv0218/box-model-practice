@@ -9,19 +9,36 @@
 #title {
     background: yellow;
     /*add CSS here*/
-    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 #subtitle {
     background: black;
     color: white;
     /*add CSS here*/
-    
+    margin-top: 20px;
+    margin-bottom: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .topic {
     background: lightgray;
     /*add CSS here*/
-    
+    display: inline;
+    margin-left: 46px;
+    margin-right: 46px;
+    vertical-align: 60px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
